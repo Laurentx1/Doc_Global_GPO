@@ -1,1 +1,0 @@
-# Doc_Global_GPO_Wallpaper
