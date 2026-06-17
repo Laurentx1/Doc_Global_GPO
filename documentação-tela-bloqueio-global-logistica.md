@@ -1,5 +1,7 @@
 # Correção da Tela de Bloqueio (Lock Screen) via GPO - Global Logística
 
+**##NÃO USADO MAIS DESSA FORMA**
+
 ## Informações do Chamado
 
 | Campo | Valor |
